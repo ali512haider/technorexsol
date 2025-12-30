@@ -1,0 +1,213 @@
+.intro-section {
+  padding: 60px 20px;
+  font-family: 'Inter', sans-serif;
+  background: #fff;
+  text-align: center;
+  color: #1a1a1a;
+}
+
+.intro-container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.card1 {
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  padding: 20px;
+  flex: 1;
+  background-color: var(--primarygreen-50);
+  border-radius: 20px;
+  overflow: hidden;
+}
+.intro-text {
+  color: #002135;
+  font-family: "Haffer-TRIAL-Regular",Arial, Helvetica, sans-serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 430;
+  line-height: 150%;
+  text-align: center;
+}
+
+.businesses-secured {
+  margin-left: 25px;
+  max-width: 350px;
+}
+.businesses-secured .card-title {
+  font-size: 55px;
+  line-height: 72.6px;
+  opacity: 0.75;
+  color: var(--primarygreen-900);
+  font-family: "Haffer-TRIAL-Medium", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+.card-subtitle {
+  font-family: "Haffer-TRIAL-Medium", Helvetica, sans-serif;
+  font-weight: 600;
+  color: var(--primarygreen-500);
+  font-size: 12px;
+  line-height: 30px;
+  margin-top: 24px;
+}
+.businesses-secured button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 10px 20px;
+  background-color: #ffffff;
+  border-radius: 7px;
+  border: none;
+  cursor: pointer;
+  box-shadow: inset 0px 3px 0px #ffffff40;
+  margin-top: 29px;
+  width: 170px;
+}
+.button-text {
+  font-family: "Haffer-TRIAL-Medium", Helvetica, sans-serif;
+  font-weight: 400;
+  color: var(--primarygreen-900);
+  font-size: 14px;
+  line-height: 22px;
+}
+.button-icon {
+  width: 20px;
+  height: 20px;
+  transform: rotate(-90deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-icon img {
+  width: 6px;
+  height: 11px;
+  transform: rotate(90deg);
+}
+.expert-count {
+  display: flex;
+  margin-top: 14px;
+  gap: 25px;
+  align-items: center;
+  height: 243px;
+}
+.count {
+  font-family: "Haffer-TRIAL-Medium", Helvetica, sans-serif;
+  font-weight: 600;
+  color: var(--primarygreen-900);
+  font-size: 50px;
+  line-height: 72.6px;
+  opacity: 0.75;
+}
+.avatar-group {
+  display: inline-flex;
+  height: 30px;
+  align-items: center;
+}
+.avatar {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  border: 1.87px solid #ffffff;
+  object-fit: cover;
+  margin-left: -14.67px;
+}
+.avatar:first-child {
+  margin-left: 0;
+}
+.expertise-title {
+  font-family: "Haffer-TRIAL-Medium", Helvetica, sans-serif;
+  font-weight: 600;
+  color: var(--primarygreen-900);
+  font-size: 35px;
+  /* line-height: 50.6px; */
+  opacity: 0.75;
+  margin-top: 14px;
+}
+.cyber-experts {
+  height: 243px;
+}
+.expertie-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 10px;
+}
+.list .expertise-list .expertise-item {
+  margin-top: 10px;
+}
+
+.expertise-item {
+  display: inline-flex;
+  padding: 4px 8px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  font-family: "Haffer-TRIAL-Medium", Helvetica, sans-serif;
+  font-weight: 400;
+  color: #44454e;
+  font-size: 12px;
+  line-height: 18px;
+}
+.card-description1{
+  font-family: "Haffer-TRIAL-Medium", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  color: #44454e;
+  font-size: 16px;
+  line-height: 24px;
+}
+.award-track-left h1{
+  color: #002135;
+font-family: "Haffer-TRIAL" , Arial, Helvetica, sans-serif;
+font-size: 46px;
+font-style: normal;
+font-weight: 570;
+line-height: 130%; /* 59.8px */
+}
+.about-section1 {
+  max-width: 1150px;
+  margin: 10px auto;
+  padding: 60px 0;
+  background: #ffffff;
+  color: #0d1b2a;
+}
+/* Section */
+.mission-section {
+  padding: 40px 20px;
+  background: #fff;
+  font-family: "Haffer-TRIAL",Arial, Helvetica, sans-serif;
+  color: #1a1a1a;
+}
+
+/* Container */
+.mission-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  max-width: 1200px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+/* Text */
+.mission-text p {
+  font-size: 16px;
+  line-height: 1.7;
+  margin-bottom: 30px;
+  color: #44454E;
+}
+
+.mission-highlight {
+  background: #f1f8f4;
+  padding: 18px 20px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #1a1a1a;
+  border-bottom: 5px solid #008a3c;
+}
+
+/* Image */
+.mission-image img {
+  width: 100%;
+  border-radius: 12px;
+  object-fit: cover;
+}
