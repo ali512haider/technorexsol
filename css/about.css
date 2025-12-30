@@ -13,7 +13,7 @@
 .card1 {
   display: flex;
   flex-direction: column;
-  height: 350px;
+  height: 300px;
   padding: 20px;
   flex: 1;
   background-color: var(--primarygreen-50);
@@ -154,6 +154,7 @@
   color: #44454e;
   font-size: 16px;
   line-height: 24px;
+  text-align: justify;
 }
 .award-track-left h1{
   color: #002135;
