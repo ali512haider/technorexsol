@@ -40,8 +40,9 @@ The website emphasizes clean UI, smooth user experience, and performance using p
 
 git clone https://github.com/your-username/technorex-sol.git
 ```
-###👨‍💻 Author
-##Ali Haider Aziz
+### 👨‍💻 Author
+## Ali Haider Aziz
+-
 Frontend Web Developer | UI/UX Designer
-
-#GitHub: https://github.com/ali512haider
+-
+# GitHub: https://github.com/ali512haider
